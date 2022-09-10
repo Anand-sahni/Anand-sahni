@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anand sahni</h1>
-<h3 align="center">Developer and Coder</h3>
+<h3 align="center">Developer and Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-sahni&label=Profile%20views&color=0e75b6&style=flat" alt="anand-sahni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand-sahni" alt="anand-sahni" /></a> </p>
+
+- 🔭 I’m currently working on **Data Structures and Full Stack Development**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anand-sahni](https://github.com/Anand-sahni)
 

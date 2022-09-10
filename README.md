@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand-sahni" alt="anand-sahni" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structures and Full Stack Development**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anand-sahni](https://github.com/Anand-sahni)

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand sahni</h1>
-<h3 align="center">Developer</h3>
+<h3 align="center">Developer and Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-sahni&label=Profile%20views&color=0e75b6&style=flat" alt="anand-sahni" /> </p>
 
